@@ -3,6 +3,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ikoene-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ikoene)](https://twitter.com/ikoene)
 [![Medium Badge](https://img.shields.io/badge/-@koenvinken-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@koenvinken)](https://medium.com/@koenvinken)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikoene)](https://github.com/ikoene/github-readme-stats)
+
+
 I work as a software engineer at [Duke & Grace](https://www.dukeandgrace.com/), a full service digital agency located in Gent, Belgium.
 
 My main tasks include:
