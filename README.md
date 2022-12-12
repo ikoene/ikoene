@@ -5,16 +5,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikoene)](https://github.com/ikoene)
 
-I work as a software engineer at [Duke & Grace](https://www.dukeandgrace.com/), a full service digital agency located in Gent, Belgium.
+I work as a cloud engineer at [In The Pocket](https://www.inthepocket.com/), located in Gent, Belgium.
 
-My main tasks include:
-
-* developing and maintaining web applications
-* creating technical and functional analyses
-* improving and expanding our internal "Harmony" web platform
-
-I mainly develop web applications with the [Symfony framework](https://github.com/symfony/symfony). I’ve worked on projects both small and large in scope.
-
-While PHP development is my expertise, I also have some experience with frontend development. I've used frontend frameworks like Bootstrap and Foundation for developing responsive, mobile first projects.
+My main task consists of developing cloud native applications that support user-facing applications, integrate with various systems and enable data intelligence.
 
 I love experimenting with technologies that aren't necessarily needed to practice my day job. I have a fond interest in augmented reality and virtual assistants like Alexa.
