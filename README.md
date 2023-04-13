@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikoene)](https://github.com/ikoene)
 
-I work as a cloud engineer at [In The Pocket](https://www.inthepocket.com/), located in Ghent, Belgium.
+I work as a software engineer at [In The Pocket](https://www.inthepocket.com/), located in Ghent, Belgium.
 
 My main task consists of developing cloud native applications that support user-facing applications, integrate with various systems and enable data intelligence.
 
