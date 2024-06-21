@@ -8,5 +8,3 @@
 I work as a software engineer at [In The Pocket](https://www.inthepocket.com/), located in Ghent, Belgium.
 
 My main task consists of developing cloud native applications that support user-facing applications, integrate with various systems and enable data intelligence.
-
-I also love experimenting with technologies that aren't necessarily needed to practice my day job. I have a fond interest in augmented reality and virtual assistants.
